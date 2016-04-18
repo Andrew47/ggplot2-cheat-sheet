@@ -6,6 +6,7 @@ A Cheat-Sheet that provides guidance on the following forms of data visualisatio
 * Bar Chart
 * Time Series Data
 
+It is based on the following tutorial: [http://r-statistics.co/ggplot2-Tutorial-With-R.html](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
 
 ## Author
 
