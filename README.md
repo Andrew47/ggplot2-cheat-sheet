@@ -2,9 +2,9 @@
 
 A Cheat-Sheet that provides guidance on the following forms of data visualisation:
 
-* Scatter-Plot
-* Bar-Chart
-* Time-Series Data
+* Scatter Plot
+* Bar Chart
+* Time Series Data
 
 
 ## Author
